@@ -1,4 +1,4 @@
-# Studies 📖
+# Estudos 📖
 ---
 # Cronograma:
 * CMD - Criação de Scripts Simples. ✅
